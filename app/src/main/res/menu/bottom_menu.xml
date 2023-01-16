@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon="@drawable/menu_home"
+        android:title="Item"
+        android:iconTint="@color/white"/>
+    <item
+        android:icon="@drawable/calender"
+        android:title="Calender"
+        android:iconTint="@color/white"/>
+    <item
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        android:iconTint="@color/white"/>
+    <item
+        android:icon="@drawable/book"
+        android:title="Book"
+        android:iconTint="@color/white"/>
+    <item
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"
+        android:title="User"
+        android:iconTint="@color/white"/>
+
+</menu>
